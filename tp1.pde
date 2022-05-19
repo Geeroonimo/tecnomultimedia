@@ -42,7 +42,7 @@ posY2 = 2250;
 posY3 = 3200;
 posYima = 5150;
 posYimaK = 0;
-vel = 3;//velocidad
+vel = 2.5;//velocidad
 
 }
 void draw()
