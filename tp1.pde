@@ -61,7 +61,7 @@ if(posYimaK == 0)
 image(kratos, 20, 0, 1920 , 1080);
 au = au + 0.60; // -
 } 
-if(au >= 255) //modificar 150 a 255 para oscurecerlo por completo
+if(au >= 255)
 {
 au = 0;
 } //-
