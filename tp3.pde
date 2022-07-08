@@ -1,3 +1,6 @@
+//Ballina Benites Geronimo
+//Walter Luz
+
 import ddf.minim.*;
 Minim minim;
 AudioPlayer audio;
